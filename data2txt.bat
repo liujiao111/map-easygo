@@ -1,0 +1,2 @@
+python read_data_to_txt.py
+pause
