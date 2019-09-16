@@ -1,4 +1,18 @@
-个人博客网站：欢迎访问：https://liujiao111.github.io/
+#### 写在前面
+由于宜出行的登录策略更新，导致无法使用qq登录直接爬取人流量的问题，近期进行了代码升级，已经解决了该问题，并且能顺利爬取数据，示例如下。目前暂不提供源代码，如有需要宜出行数据，可联系：917961898，进行爬取(非免费)，示例数据：
+![
+](https://img-blog.csdnimg.cn/2019091609403833.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0NDY0OTI2,size_16,color_FFFFFF,t_70)
+
+可视化效果图：
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190916094104405.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0NDY0OTI2,size_16,color_FFFFFF,t_70)
+目前也有腾讯位置大数据爬取的在线工具免费使用，不过该数据精度不够高，如果对精度要求高，推荐使用宜出行爬取。
+
+工具链接：[腾讯出行人流量爬取工具](http://www.mapboxx.cn/tool/tencet/)
+
+这是腾讯位置大数据可视化效果图：
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190828153306464.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0NDY0OTI2,size_16,color_FFFFFF,t_70)
+
 
 #### 工具介绍：
 该工具基于微信中的宜出行提供的数据接口进行爬取，能够爬取一定范围内的当前时间点的人流量数据。地址：https://liujiao111.github.io/
