@@ -13,6 +13,7 @@
 这是腾讯位置大数据可视化效果图：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190828153306464.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM0NDY0OTI2,size_16,color_FFFFFF,t_70)
 
+欢迎加入地图数据爬取交流群：626697156，有问题可以反馈给群主
 
 #### 工具介绍：
 该工具基于微信中的宜出行提供的数据接口进行爬取，能够爬取一定范围内的当前时间点的人流量数据。地址：https://liujiao111.github.io/
